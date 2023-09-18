@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{833CE3CB-4D7C-40A4-84EC-93AF636BE9AB}|Default">
+  <MonoDevelop.Ide.ItemProperties.NameList PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NameList/ViewController.cs">
+    <Files>
+      <File FileName="NameList/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="NameList/ViewController.designer.cs" Line="19" Column="30" />
+      <File FileName="NameList/ViewController.cs" Line="35" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NameList" expanded="True">
+            <Node name="NameList" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

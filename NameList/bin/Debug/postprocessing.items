@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="NameList.app/Contents/MacOS/NameList">
+      <BCSymbolMapName>NameList.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>NameList.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/irsyadfikriansyah/Documents/College/SMES 5/[1] PBKK/Tugas/tugas 3/NameList/NameList/obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>NameList.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/irsyadfikriansyah/Documents/College/SMES 5/[1] PBKK/Tugas/tugas 3/NameList/NameList</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
